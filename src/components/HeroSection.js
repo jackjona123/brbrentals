@@ -5,7 +5,7 @@ export default function HeroSection() {
   return (
     <div
       className={style.HeroSection}
-      style={{ backgroundImage: "url('/images/heroSectionBg.jpeg')" }}
+      style={{ backgroundImage: "url('/images/heroSectionBg.webp')" }}
     >
       <h1>Go Far Away</h1>
       <a href="https://brbrentals.jackjona.live"><button>Explore nearby stays</button></a>
