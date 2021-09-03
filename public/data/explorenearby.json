@@ -1,0 +1,42 @@
+[
+  {
+    "img": "https://brb.jackjona.ga/images/london.jpg",
+    "location": "London",
+    "distance": "45-minute drive"
+  },
+  {
+    "img": "https://brb.jackjona.ga/images/manchester.jpg",
+    "location": "Manchester",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "https://brb.jackjona.ga/images/liverpool.jpg",
+    "location": "Liverpool",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "https://brb.jackjona.ga/images/york.jpg",
+    "location": "York",
+    "distance": "4-hour drive"
+  },
+  {
+    "img": "https://brb.jackjona.ga/images/cardiff.jpg",
+    "location": "Cardiff",
+    "distance": "45-minute drive"
+  },
+  {
+    "img": "https://brb.jackjona.ga/images/birkenhead.jpg",
+    "location": "Birkenhead",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "https://brb.jackjona.ga/images/newquay.jpg",
+    "location": "Newquay",
+    "distance": "6-hour drive"
+  },
+  {
+    "img": "https://brb.jackjona.ga/images/hove.jpg",
+    "location": "Hove",
+    "distance": "2.5-hour drive"
+  }
+]
