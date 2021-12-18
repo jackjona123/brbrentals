@@ -84,8 +84,8 @@ export default function Home({exploreData,cardData}) {
 }
 
 export async function getStaticProps(){
-  const exploreData = await fetch("https://brbrentals.ga/data/explorenearby.json").then((res) => res.json());
-  const cardData = await fetch("https://brbrentals.ga/data/liveanywhere.json").then((res) => res.json());
+  const exploreData = await fetch("https://www.brbrentals.ga/data/explorenearby.json").then((res) => res.json());
+  const cardData = await fetch("https://www.brbrentals.ga/data/liveanywhere.json").then((res) => res.json());
   
   return {
     props:{

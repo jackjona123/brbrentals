@@ -1,41 +1,41 @@
 [
   {
-    "img": "https://brbrentals.ga/images/london.jpg",
+    "img": "https://www.brbrentals.ga/images/london.jpg",
     "location": "London",
     "distance": "45-minute drive"
   },
   {
-    "img": "https://brbrentals.ga/images/manchester.jpg",
+    "img": "https://www.brbrentals.ga/images/manchester.jpg",
     "location": "Manchester",
     "distance": "4.5-hour drive"
   },
   {
-    "img": "https://brbrentals.ga/images/liverpool.jpg",
+    "img": "https://www.brbrentals.ga/images/liverpool.jpg",
     "location": "Liverpool",
     "distance": "4.5-hour drive"
   },
   {
-    "img": "https://brbrentals.ga/images/york.jpg",
+    "img": "https://www.brbrentals.ga/images/york.jpg",
     "location": "York",
     "distance": "4-hour drive"
   },
   {
-    "img": "https://brbrentals.ga/images/cardiff.jpg",
+    "img": "https://www.brbrentals.ga/images/cardiff.jpg",
     "location": "Cardiff",
     "distance": "45-minute drive"
   },
   {
-    "img": "https://brbrentals.ga/images/birkenhead.jpg",
+    "img": "https://www.brbrentals.ga/images/birkenhead.jpg",
     "location": "Birkenhead",
     "distance": "4.5-hour drive"
   },
   {
-    "img": "https://brbrentals.ga/images/newquay.jpg",
+    "img": "https://www.brbrentals.ga/images/newquay.jpg",
     "location": "Newquay",
     "distance": "6-hour drive"
   },
   {
-    "img": "https://brbrentals.ga/images/hove.jpg",
+    "img": "https://www.brbrentals.ga/images/hove.jpg",
     "location": "Hove",
     "distance": "2.5-hour drive"
   }

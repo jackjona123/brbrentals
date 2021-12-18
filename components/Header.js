@@ -135,7 +135,7 @@ const Header = ({placeholder}) => {
                             ">Number of Guests</h2>
 
                             <UsersIcon className="h-5 dark:text-gray-50" />
-                            <input type="number" className="w-12 pl-2 text-lg dark:bg-gray-900 dark:placeholder-gray-50 dark:text-white outline-none text-red-400" value={noOfGuests} onChange={(e) => setNoOfGuests(e.target.value)} />
+                            <input type="number" className="w-12 pl-2 text-lg dark:bg-gray-900 dark:placeholder-gray-50 dark:text-white outline-none text-blue-400" value={noOfGuests} onChange={(e) => setNoOfGuests(e.target.value)} />
                         </div>
                         <div className="flex">
                             <button className="flex-grow button dark:text-gray-50" onClick={resetInput}>Cancel</button>

@@ -67,7 +67,7 @@ function search({searchResults}) {
 export default search;
 
 export async function getServerSideProps(){
-    const searchResults = await fetch("https://brbrentals.ga/data/brbsearch.json").then((res) => res.json())
+    const searchResults = await fetch("https://www.brbrentals.ga/data/brbsearch.json").then((res) => res.json())
 
     return {
         props:{
